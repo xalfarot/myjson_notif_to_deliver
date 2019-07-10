@@ -1,4 +1,29 @@
-{
-"notifications": [{ "Notifctn": "1", "Line_item": "1", "Assembly": "1", "KGB_serial": "1", "Distributor_Ship_Date": "", "Distributor_Ship_Time": "", "Tracking": "1", "Ship_document": "1" },{ "Notifctn": "2", "Line_item": "2", "Assembly": "2", "KGB_serial": "2", "Distributor_Ship_Date": "", "Distributor_Ship_Time": "", "Tracking": "2", "Ship_document": "2" },{ "Notifctn": "3", "Line_item": "3", "Assembly": "3", "KGB_serial": "3", "Distributor_Ship_Date": "", "Distributor_Ship_Time": "", "Tracking": "3", "Ship_document": "3" }]
-
-}
+{"notifications": [
+  { "Notifctn": "30368946414", 
+    "Line_item": "2", 
+    "Assembly": "ACSH0126", 
+    "KGB_serial": "ACSH0126", 
+    "Distributor_Ship_Date": "", 
+    "Distributor_Ship_Time": "", 
+    "Tracking": "1Z0410390470001602", 
+    "Ship_document": "301527" 
+  },
+  { "Notifctn": "30368946414", 
+    "Line_item": "1", 
+    "Assembly": "661-08217", 
+    "KGB_serial": "661-08217", 
+    "Distributor_Ship_Date": "", 
+    "Distributor_Ship_Time": "", 
+    "Tracking": "1Z0410390470001602", 
+    "Ship_document": "G1907-00186" 
+  },
+  { "Notifctn": "30369035592", 
+    "Line_item": "1", 
+    "Assembly": "661-08754", 
+    "KGB_serial": "661-08754", 
+    "Distributor_Ship_Date": "", 
+    "Distributor_Ship_Time": "", 
+    "Tracking": "1Z0410390470005760", 
+    "Ship_document": "G1907-02489" 
+  }
+]}
